@@ -1,7 +1,5 @@
 # -
 기록용 메모장
 
-메모장 생성 
-메모장 수정
-
-![28373_24415_3939](https://github.com/unho6809/-/assets/53002691/1d5aab59-eef6-4477-8446-996330927f41)
+비트 제작 : 
+https://m.blog.naver.com/gseekcampus/221609842485
